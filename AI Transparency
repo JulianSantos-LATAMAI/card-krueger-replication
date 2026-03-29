@@ -1,0 +1,47 @@
+## AI Assistance Disclosure
+
+### Tools Used
+- **Claude (Anthropic, claude.ai)** — used throughout the Phase 3 extension for code generation, debugging, and interpretation.
+ 
+---
+
+### Prompts Used
+
+**Prompt 1 — Initial extension request:**
+> "This is a project I have been working on for an econometrics class.
+This is an extension of the original project where I included the effect of 
+Franchise vs Company owned on wages and now what I want to do is expand it further to 
+include local political affiliations as well as franchised or company owned to compare wages. 
+IS that possible?"
+
+**Prompt 2 — Code delivery:**
+> "Give me the code"
+
+**Prompt 3 — Debugging broken figures:**
+> *(Uploaded screenshots of Figures 6, 7, and 9 rendering incorrectly)*
+> "What is happening, why is it not showing correctly?"
+
+**Prompt 4 — Diagnostic output:**
+> *(Pasted diagnostic output showing all region columns returning only zeros and wage_st2 absent from the dataframe)*
+
+**Prompt 5 — Patch verification:**
+> *(Pasted patch output confirming region distribution and wage_st2 summary statistics)*
+
+**Prompt 6 — Heatmap error:**
+> *(Pasted KeyError traceback from plot_wage_heatmap() failing on pd.Categorical index)*
+
+
+
+---
+
+### My Contributions
+- Identified the research question and chose the two extension dimensions (ownership type and regional political lean) as theoretically motivated heterogeneity axes
+- Selected the outcome variable (WAGE_ST) and directed the interaction term structure
+- Ran all diagnostic and patch cells, evaluated output for plausibility, and flagged when results looked wrong
+- Read and assessed all figure outputs and regression tables
+- Integrated the AI-generated code into the existing Phase 3 notebook structure
+
+---
+
+### Limitations Acknowledged
+- The political lean proxy is constructed from existing regional dummies
