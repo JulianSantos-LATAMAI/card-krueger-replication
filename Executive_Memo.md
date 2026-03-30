@@ -30,8 +30,9 @@ The extension layer adds a second question on top of this: within New Jersey, di
 ## Key Visual Evidence
 
 
+<img width="1389" height="593" alt="image" src="https://github.com/user-attachments/assets/52c6fe52-4390-421f-8d2f-899b9469b0e6" />
 
-**Figure 6** shows mean starting wages before and after the mandate, split by state and ownership type. Before the policy (left panel), all four groups cluster between $4.56 and $4.63 — well below the incoming $5.05 floor. After the policy (right panel), both New Jersey groups — franchised and company-owned alike — jump sharply to just above $5.05, while Pennsylvania stores barely move. The near-identical post-mandate wages across ownership types is the core finding of the extension: the legal floor crowded out any structural differences that might otherwise have produced heterogeneous wage responses.
+**Figure 6** Figure 6 shows mean starting wages before and after the mandate, split by state and ownership type. Before the policy (left panel), the two NJ groups clustered tightly between $4.62 and $4.68 — well below the incoming $5.05 floor — while PA stores showed a notable split: franchisees at $4.61 and company-owned stores already paying a premium at $4.79, suggesting corporate ownership carried a pre-existing wage advantage in the control state. After the policy (right panel), both NJ groups — franchised and company-owned alike — jump sharply to just above $5.05 ($5.084 and $5.072 respectively), while Pennsylvania stores barely move. The near-identical post-mandate wages across NJ ownership types is the core finding of the extension: the legal floor crowded out any structural differences that might otherwise have produced heterogeneous wage responses, compressing what was a meaningful ownership gap in Pennsylvania into statistical noise on the New Jersey side of the border.
 
 ---
 
