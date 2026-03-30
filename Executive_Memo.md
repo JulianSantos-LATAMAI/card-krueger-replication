@@ -5,7 +5,7 @@
 
 ## Bottom Line Up Front
 
-New Jersey's 1992 minimum wage increase from $4.25 to $5.05 did not reduce employment at fast food restaurants — if anything, employment rose slightly relative to Pennsylvania, the control state. A Phase 4 extension tested whether this result masked hidden differences across store ownership type (company-owned vs. franchised) and regional political environment, and found no statistically meaningful heterogeneity along either dimension: the mandate acted as a hard floor that compressed wage-setting behavior uniformly, regardless of who owned the store or how the surrounding community voted.
+New Jersey's 1992 minimum wage increase from $4.25 to $5.05 did not reduce employment at fast food restaurants — if anything, employment rose slightly relative to Pennsylvania, the control state. A Phase 4 extension tested whether this result masked hidden differences across store ownership type (company-owned vs. franchised) and regional political environment, and found no statistically meaningful diversification along either dimension: the mandate acted as a hard floor that compressed wage-setting behavior uniformly, regardless of who owned the store or how the surrounding community voted politically.
 
 ---
 
@@ -21,7 +21,8 @@ The extension layer adds a second question on top of this: within New Jersey, di
 
 ## Key Visual Evidence
 
-![Figure 6 — Starting Wage by State and Ownership Type](fig6_wage_by_ownership.png)
+<img width="1155" height="2256" alt="image" src="https://github.com/user-attachments/assets/e9b10aa9-4549-4964-bbc1-1c684e02fa39" />
+
 
 **Figure 6** shows mean starting wages before and after the mandate, split by state and ownership type. Before the policy (left panel), all four groups cluster between $4.56 and $4.63 — well below the incoming $5.05 floor. After the policy (right panel), both New Jersey groups — franchised and company-owned alike — jump sharply to just above $5.05, while Pennsylvania stores barely move. The near-identical post-mandate wages across ownership types is the core finding of the extension: the legal floor crowded out any structural differences that might otherwise have produced heterogeneous wage responses.
 
@@ -33,7 +34,7 @@ The extension layer adds a second question on top of this: within New Jersey, di
 
 **For business stakeholders:** Company-owned and franchised stores faced the same wage pressure and responded identically, suggesting that the structural advantages of corporate ownership (cross-subsidization, deeper capital reserves) did not translate into meaningfully different labor cost strategies at the store level.
 
-**The key caveat:** These results hold for a single, well-studied policy shock in the fast food industry in 1992. They should not be mechanically extrapolated to larger minimum wage increases, different industries, or modern labor markets without further analysis.
+**The key caveat:** These results hold for a single, well-studied policy shock in the fast food industry in 1992. They should not be mechanically extrapolated to larger minimum wage increases, different industries, or modern labor markets without further analysis. Additionally, since 1992, the culture around minimum wage has changed significantly. When Card & Krueger conducted their studies, a minimum wage was livable. Nowadays, it is more taboo because prices have increased so quickly. 
 
 ---
 
