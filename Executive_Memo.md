@@ -43,6 +43,3 @@ The extension layer adds a second question on top of this: within New Jersey, di
 
 **The key caveat:** These results hold for a single, well-studied policy shock in the fast food industry in 1992. They should not be mechanically extrapolated to larger minimum wage increases, different industries, or modern labor markets without further analysis. Additionally, since 1992, the culture around minimum wage has changed significantly. When Card & Krueger conducted their studies, a minimum wage was livable. Nowadays, it is more taboo because prices have increased so quickly. 
 
----
-
-## Repository Structure
