@@ -5,7 +5,15 @@
 
 ## Bottom Line Up Front
 
-New Jersey's 1992 minimum wage increase from $4.25 to $5.05 did not reduce employment at fast food restaurants — if anything, employment rose slightly relative to Pennsylvania, the control state. A Phase 4 extension tested whether this result masked hidden differences across store ownership type (company-owned vs. franchised) and regional political environment, and found no statistically meaningful diversification along either dimension: the mandate acted as a hard floor that compressed wage-setting behavior uniformly, regardless of who owned the store or how the surrounding community voted politically.
+New Jersey's 1992 minimum wage increase from $4.25 to $5.05 produced 
+near-uniform compliance across all fast food store types — franchised 
+($5.08) and company-owned ($5.07) NJ stores converged just above the 
+new floor regardless of ownership structure or regional political lean. 
+A Phase 4 extension finds that conservative-region NJ stores, which 
+started at lower pre-mandate wages ($4.56 vs $4.69), experienced a 
+larger absolute wage increase — consistent with the mandate being more 
+binding where wages were most compressed — but no ownership-type 
+heterogeneity was detected.
 
 ---
 
@@ -21,7 +29,6 @@ The extension layer adds a second question on top of this: within New Jersey, di
 
 ## Key Visual Evidence
 
-<img width="1155" height="2256" alt="image" src="https://github.com/user-attachments/assets/e9b10aa9-4549-4964-bbc1-1c684e02fa39" />
 
 
 **Figure 6** shows mean starting wages before and after the mandate, split by state and ownership type. Before the policy (left panel), all four groups cluster between $4.56 and $4.63 — well below the incoming $5.05 floor. After the policy (right panel), both New Jersey groups — franchised and company-owned alike — jump sharply to just above $5.05, while Pennsylvania stores barely move. The near-identical post-mandate wages across ownership types is the core finding of the extension: the legal floor crowded out any structural differences that might otherwise have produced heterogeneous wage responses.
